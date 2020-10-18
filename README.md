@@ -45,3 +45,12 @@ Hello there!  This is a repository containing of tasks done in internship provid
 - Used Simple Regression for the task.
 - Database used is http://bit.ly/w-data
 - The solution: https://github.com/ShreyasGawande/GRIP-TSF-Data-Science/blob/main/Task-1%20Prediction%20using%20Supervised%20ML/%20Task_1.ipynb
+
+
+# Task 2
+## Prediction Using Unsupervised ML
+
+- Predicted the optimum number of clusters and represented it visually.
+- Used Kmeans clustering for the task
+- Database used is https://bit.ly/3kXTdox
+- The solution: https://github.com/ShreyasGawande/GRIP-TSF-Data-Science/blob/main/Task-1%20Prediction%20using%20Supervised%20ML/%20Task_1.ipynb
