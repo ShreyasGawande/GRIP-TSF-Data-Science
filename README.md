@@ -53,4 +53,4 @@ Hello there!  This is a repository containing of tasks done in internship provid
 - Predicted the optimum number of clusters and represented it visually.
 - Used Kmeans clustering for the task
 - Database used is https://bit.ly/3kXTdox
-- The solution: https://github.com/ShreyasGawande/GRIP-TSF-Data-Science/tree/main/Task-2%20Prediction%20using%20Unsupervised%20ML/Task%202.ipynb
+- The solution: https://github.com/ShreyasGawande/GRIP-TSF-Data-Science/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML/Task_2.ipynb
